@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&family=Yeon+Sung&display=swap');
+
+*{
+
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+ body{
+    background-color: grey;
+    height:100vh ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+ }
+ .container{
+    background-color: rgb(196, 196, 191);
+    width: 70%;
+    height:500px ;
+    border-radius:140px 0px ;
+    max-width: 500px;
+    
+ }
+ h2{
+    margin:30px;
+    text-align:center ;
+    font-family: 'Yeon Sung', cursive;
+
+    
+
+ }
+ .myBtn{ margin: 30px;
+text-align: center;}
+
+input{
+    padding:8px ;
+    border-radius: 15px;
+    border:none ;
+}
+.btn{
+    padding:8px ;
+    border-radius:15px ;
+    border:none ;
+ max-width:400px ;
+}
+img{
+    
+    display:block;
+    margin:auto;
+    width:200px;
+}
+.bottom{
+    text-align: center;
+    padding:2 rem ;
+    margin:1rem ;
+    font-family: 'Yeon Sung', cursive;
+
+
+}
